@@ -26,6 +26,6 @@ example:
 Using retinanet/test.ipynb
 result example:
 
-<img src="https://github.com/hxjia/machine-learning-project/blob/master/result1.png" />
+<img src="https://github.com/hxjia96/machine-learning-project/blob/master/result1.png" />
 
-<img src="https://github.com/hxjia/machine-learning-project/blob/master/result2.png" />
+<img src="https://github.com/hxjia96/machine-learning-project/blob/master/result2.png" />
